@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C401237D-D04C-4831-AC5D-EAC9E74C69BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sudoku</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6CFB99A1-A69E-48C8-BA6F-64E250D9ECB4</key>
+		<string>ssh://github.com/Cram974/school-mobile-sudoku.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sudoku/Sudoku.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6CFB99A1-A69E-48C8-BA6F-64E250D9ECB4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Cram974/school-mobile-sudoku.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6CFB99A1-A69E-48C8-BA6F-64E250D9ECB4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CFB99A1-A69E-48C8-BA6F-64E250D9ECB4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>school-mobile-sudoku</string>
+		</dict>
+	</array>
+</dict>
+</plist>
